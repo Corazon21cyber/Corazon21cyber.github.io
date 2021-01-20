@@ -1,0 +1,47 @@
+body{
+    background-color: #30475e;
+    color: #dddddd;
+}
+header{
+    background-color: #f05454;
+    color: #dddddd;
+    padding: 8px;
+    text-align: center;
+}
+main{
+    margin-top: 30px;
+}
+.intro{
+    margin-top:20px;
+    margin-bottom:20px;
+}
+.detail1{
+    inset-block: 50px;
+     
+}
+main table{
+    width: 50%;
+    text-align: center;
+    margin-left: 500px;
+    margin-top: -390px;
+    padding: 90px;
+}
+.nmenu{
+    font-size: 24px;
+}
+.dmenu{
+    text-align: center;
+    margin-top:10px;
+}
+main td{
+    width: 50%;
+    border: 1px solid #dddddd;
+    border-radius: 10px;
+    height:20%;
+    padding: 10px; 
+}
+main img{   
+    height:200px;
+    margin-left: 30px;
+}
+
